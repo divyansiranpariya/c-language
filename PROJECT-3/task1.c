@@ -1,4 +1,4 @@
-#include<stdio.h>
+nnnn#include<stdio.h>
 main(){
 	char i,z;
 	i='a';
